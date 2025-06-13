@@ -11,7 +11,6 @@ export default function Home() {
         Heading to GitHub
       </Button>
       <ModeToggle />
-      <p>Testing deployment</p>
     </main>
   );
 }
